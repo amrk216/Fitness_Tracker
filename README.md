@@ -1,1 +1,1 @@
-reports/figures/plot_bench_A.png
+/reports/figures/plot_bench_A.png
